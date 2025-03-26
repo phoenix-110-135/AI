@@ -2,12 +2,6 @@
 
 Welcome to my AI Practice Repository! This repository contains various projects and exercises focused on artificial intelligence, machine learning, and data analysis. Here, you'll find implementations of algorithms, data manipulation techniques, and practical applications of AI concepts.
 
-## Table of Contents
-- [Technologies Used](#technologies-used)
-- [Projects](#projects)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Technologies Used
 This repository showcases my skills in the following technologies:
