@@ -1,0 +1,61 @@
+Date;Time;Comp;Round;Day 4;venue;Result;GF;GA;Oponent;xG ;xGA ;Poss;Attendance;Captain;Formation;Opp_Formation;Referee
+2024-08-17;21:30;La Liga;Matchweek 1;Sat;Away;W;2;1;Valencia;3.2;1.0;63;46,673;Marc-André ter Stegen;4-2-3-1;4-4-2;
+2024-08-24;19:00;La Liga;Matchweek 2;Sat;Home;W;2;1;Athletic Club;1.8;1.0;64;46,448;Marc-André ter Stegen;4-2-3-1;4-2-3-1;
+2024-08-27;21:30;La Liga;Matchweek 3;Tue;Away;W;2;1;Rayo Vallecano;1.4;0.4;64;14,031;Marc-André ter Stegen;4-2-3-1;4-4-2;
+2024-08-31;17:00;La Liga;Matchweek 4;Sat;Home;W;7;0;Valladolid;4.7;0.5;70;44,359;Marc-André ter Stegen;4-3-3;4-1-4-1;Isidro Díaz de Mera
+2024-09-15;16:15;La Liga;Matchweek 5;Sun;Away;W;4;1;Girona;1.9;1.3;55;13,891;Marc-André ter Stegen;4-2-3-1;4-2-3-1;Alejandro Muñíz
+2024-09-19;21:00;Champions Lg;League phase;Thu;Away;L;1;2;Monaco;0.4;1.3;44;13,296;Marc-André ter Stegen;4-2-3-1;4-2-3-1;Allard Lindhout
+2024-09-22;18:30;La Liga;Matchweek 6;Sun;Away;W;5;1;Villarreal;3.9;2.2;63;22,048;Marc-André ter Stegen;4-3-3;4-4-2;Mateo Busquets
+2024-09-25;21:00;La Liga;Matchweek 7;Wed;Home;W;1;0;Getafe;1.9;0.7;76;44,407;Raphinha;4-2-3-1;4-1-4-1;Pablo González
+2024-09-28;21:00;La Liga;Matchweek 8;Sat;Away;L;2;4;Osasuna;0.8;2.2;73;22,322;Pedri;4-3-3;4-3-3;Guillermo Cuadra
+2024-10-01;21:00;Champions Lg;League phase;Tue;Home;W;5;0;Young Boys;3.4;0.8;69;45,097;Raphinha;4-2-3-1;4-1-4-1;Erik Lambrechts
+2024-10-06;16:15;La Liga;Matchweek 9;Sun;Away;W;3;0;Alavés;2.7;0.7;71;19,468;Raphinha;4-2-3-1;4-2-3-1;Miguel Ángel Ortiz Arias
+2024-10-20;21:00;La Liga;Matchweek 10;Sun;Home;W;5;1;Sevilla;3.8;1.0;67;47,848;Raphinha;4-2-3-1;4-2-3-1;Ricardo de Burgos
+2024-10-23;21:00;Champions Lg;League phase;Wed;Home;W;4;1;Bayern Munich;2.2;1.0;40;50,312;Raphinha;4-2-3-1;4-2-3-1;Slavko Vinčič
+2024-10-26;21:00;La Liga;Matchweek 11;Sat;Away;W;4;0;Real Madrid;2.6;1.5;57;78,192;Raphinha;4-2-3-1;4-4-2;Jose Maria Sánchez
+2024-11-03;16:15;La Liga;Matchweek 12;Sun;Home;W;3;1;Espanyol;1.8;0.9;76;48,843;Raphinha;4-2-3-1;4-1-4-1;José Luis Munuera
+2024-11-06;21:00;Champions Lg;League phase;Wed;Away;W;5;2;Red Star;3.6;0.2;69;48,886;Frenkie de Jong;4-2-3-1;4-5-1;Espen Eskås
+2024-11-10;21:00;La Liga;Matchweek 13;Sun;Away;L;0;1;Real Sociedad;0.7;2.0;69;36,194;Frenkie de Jong;4-2-3-1;4-1-4-1;Guillermo Cuadra
+2024-11-23;21:00;La Liga;Matchweek 14;Sat;Away;D;2;2;Celta Vigo;1.8;2.5;59;24,573;Raphinha;4-2-3-1;4-4-2;César Soto
+2024-11-26;21:00;Champions Lg;League phase;Tue;Home;W;3;0;Brest;2.8;0.1;75;46,317;Raphinha;4-2-3-1;4-1-2-1-2;Irfan Peljto
+2024-11-30;14:00;La Liga;Matchweek 15;Sat;Home;L;1;2;Las Palmas;2.3;0.5;69;43,921;Raphinha;4-2-3-1;4-2-3-1;Adrián Cordero
+2024-12-03;19:00;La Liga;Matchweek 19;Tue;Away;W;5;1;Mallorca;5.0;0.9;59;22,352;Raphinha;4-2-3-1;4-4-2;Jesús Gil
+2024-12-07;16:15;La Liga;Matchweek 16;Sat;Away;D;2;2;Betis;1.9;3.1;62;51,749;Raphinha;4-3-3;4-2-3-1;Alejandro Muñíz
+2024-12-11;21:00;Champions Lg;League phase;Wed;Away;W;3;2;Dortmund;2.0;2.7;54;81,365;Raphinha;4-2-3-1;4-3-3;François Letexier
+2024-12-15;21:00;La Liga;Matchweek 17;Sun;Home;L;0;1;Leganés;2.6;0.4;79;39,523;Raphinha;4-2-3-1;5-4-1;Alejandro Quintero
+2024-12-21;21:00;La Liga;Matchweek 18;Sat;Home;L;1;2;Atlético Madrid;2.7;0.7;62;46,249;Raphinha;4-2-3-1;4-4-2;Ricardo de Burgos
+2025-01-04;19:00;Copa del Rey;Round of 32;Sat;Away;W;4;0;Barbastro;;;75;5,500;Ronald Araújo;4-2-3-1;5-3-2;Isidro Díaz de Mera
+2025-01-08;22:00;Supercopa de España;Semi-finals;Wed;Neutral;W;2;0;Athletic Club;;;56;42,00;Raphinha;4-2-3-1;4-2-3-1;Miguel Ángel Ortiz Arias
+2025-01-12;22:00;Supercopa de España;Final;Sun;Neutral;W;5;2;Real Madrid;;;51;62,345;Raphinha;4-2-3-1;4-2-3-1;Jesús Gil
+2025-01-15;21:00;Copa del Rey;Round of 16;Wed;Home;W;5;1;Betis;;;69;46,019;Ronald Araújo;4-3-3;4-2-3-1;Jose Maria Sánchez
+2025-01-18;21:00;La Liga;Matchweek 20;Sat;Away;D;1;1;Getafe;2.3;1.3;77;15,134;Ronald Araújo;4-2-3-1;4-1-4-1;Pablo González
+2025-01-21;20:00;Champions Lg;League phase;Tue;Away;W;5;4;Benfica;3.6;3.3;74;63,225;Ronald Araújo;4-2-3-1;4-3-3;Danny Makkelie
+2025-01-26;21:00;La Liga;Matchweek 21;Sun;Home;W;7;1;Valencia;4.4;1.5;71;45,312;Frenkie de Jong;4-2-3-1;4-4-2;César Soto
+2025-01-29;21:00;Champions Lg;League phase;Wed;Home;D;2;2;Atalanta;2.4;1.2;67;42,728;Ronald Araújo;4-2-3-1;3-4-1-2;Michael Oliver
+2025-02-02;14:00;La Liga;Matchweek 22;Sun;Home;W;1;0;Alavés;1.0;0.1;69;42,900;Ronald Araújo;4-3-3;4-2-3-1;José Luis Munuera
+2025-02-06;21:30;Copa del Rey;Quarter-finals;Thu;Away;W;5;0;Valencia;;;77;46,806;Frenkie de Jong;4-3-3;5-4-1;Miguel Ángel Ortiz Arias
+2025-02-09;21:00;La Liga;Matchweek 23;Sun;Away;W;4;1;Sevilla;1.9;0.7;60;38,592;Ronald Araújo;4-2-3-1;4-2-3-1;Alejandro Hernández
+2025-02-17;21:00;La Liga;Matchweek 24;Mon;Home;W;1;0;Rayo Vallecano;2.3;1.0;59;45,296;Frenkie de Jong;4-2-3-1;4-2-3-1;Mario Melero
+2025-02-22;20:00;La Liga;Matchweek 25;Sat;Away;W;2;0;Las Palmas;1.4;0.4;69;30,746;Raphinha;4-2-3-1;4-2-3-1;Adrián Cordero
+2025-02-25;21:30;Copa del Rey;Semi-finals;Tue;Home;D;4;4;Atlético Madrid;;;67;40,915;Frenkie de Jong;4-2-3-1;4-4-2;Alejandro Hernández
+2025-03-02;16:15;La Liga;Matchweek 26;Sun;Home;W;4;0;Real Sociedad;2.8;0.0;76;46,314;Ronald Araújo;4-1-4-1;4-1-4-1;Alejandro Quintero
+2025-03-05;20:00;Champions Lg;Round of 16;Wed;Away;W;1;0;Benfica;1.2;1.7;48;62,437;Frenkie de Jong;4-2-3-1;4-3-3;Felix Zwayer
+2025-03-11;18:45;Champions Lg;Round of 16;Tue;Home;W;3;1;Benfica;2.4;0.7;64;47,111;Ronald Araújo;4-2-3-1;4-3-3;François Letexier
+2025-03-16;21:00;La Liga;Matchweek 28;Sun;Away;W;4;2;Atlético Madrid;1.3;1.4;65;67,602;Raphinha;4-2-3-1;4-4-2;Ricardo de Burgos
+2025-03-27;21:00;La Liga;Matchweek 27;Thu;Home;W;3;0;Osasuna;3.7;0.4;74;42,319;Frenkie de Jong;4-3-3;4-4-2;Mateo Busquets
+2025-03-30;16:15;La Liga;Matchweek 29;Sun;Home;W;4;1;Girona;2.3;0.5;69;48,258;Ronald Araújo;4-2-3-1;4-4-2;Juan Pulido
+2025-04-02;21:30;Copa del Rey;Semi-finals;Wed;Away;W;1;0;Atlético Madrid;;;57;69,014;Frenkie de Jong;4-2-3-1;5-3-2;José Luis Munuera
+2025-04-05;21:00;La Liga;Matchweek 30;Sat;Home;D;1;1;Betis;1.4;0.3;73;47,043;Ronald Araújo;4-3-3;4-2-3-1;Jesús Gil
+2025-04-09;21:00;Champions Lg;Quarter-finals;Wed;Home;W;4;0;Dortmund;3.5;1.4;60;49,760;Frenkie de Jong;4-2-3-1;4-5-1;Espen Eskås
+2025-04-12;21:00;La Liga;Matchweek 31;Sat;Away;W;1;0;Leganés;1.4;0.7;65;12,530;Ronald Araújo;4-2-3-1;4-5-1;Francisco Hernández
+2025-04-15;21:00;Champions Lg;Quarter-finals;Tue;Away;L;1;3;Dortmund;0.5;3.6;53;81,365;Ronald Araújo;4-2-3-1;3-4-3;Maurizio Mariani
+2025-04-19;16:15;La Liga;Matchweek 32;Sat;Home;W;4;3;Celta Vigo;2.9;2.1;71;48,569;Frenkie de Jong;4-3-3;4-1-4-1;Mario Melero
+2025-04-22;21:30;La Liga;Matchweek 33;Tue;Home;W;1;0;Mallorca;3.3;0.3;77;45,602;Ronald Araújo;4-2-3-1;5-4-1;Miguel Ángel Ortiz Arias
+2025-04-26;22:00;Copa del Rey;Final;Sat;Home;W;3;2;Real Madrid;;;59;;Frenkie de Jong;4-2-3-1;4-2-3-1;Ricardo de Burgos
+2025-04-30;21:00;Champions Lg;Semi-finals;Wed;Home;;;;Inter;;;;;;;;
+2025-05-03;21:00;La Liga;Matchweek 34;Sat;Away;;;;Valladolid;;;;;;;;
+2025-05-06;21:00;Champions Lg;Semi-finals;Tue;Away;;;;Inter;;;;;;;;
+2025-05-11;16:15;La Liga;Matchweek 35;Sun;Home;;;;Real Madrid;;;;;;;;
+2025-05-15;21:30;La Liga;Matchweek 36;Thu;Away;;;;Espanyol;;;;;;;;
+2025-05-18;;La Liga;Matchweek 37;Sun;Home;;;;Villarreal;;;;;;;;
+2025-05-25;;La Liga;Matchweek 38;Sun;Away;;;;Athletic Club;;;;;;;;
